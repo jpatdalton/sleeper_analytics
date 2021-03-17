@@ -1,0 +1,4 @@
+gsheet_sleeper_bot_credentials.json
+cached_data/*
+.env.local
+.idea/
